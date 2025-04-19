@@ -23,7 +23,7 @@ Steps to replicate this example:
 load_dotenv()
 
 # Setup Firebase Firestore
-PROJECT_ID = "langchain-intro-uwu"
+PROJECT_ID = "intro-langchain"
 SESSION_ID = "user_session_1"  # This could be a username or a unique ID
 COLLECTION_NAME = "chat_history"
 
